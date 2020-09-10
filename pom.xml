@@ -53,7 +53,7 @@
           <findbugsXmlOutput>true</findbugsXmlOutput>
           <xmlOutput>true</xmlOutput>
 
-          <findbugsXmlOutputDirectory>analysis/findbugs-${maven.build.timestamp}</findbugsXmlOutputDirectory>
+          <findbugsXmlOutputDirectory>analysis-${maven.build.timestamp}/findbugs-${maven.build.timestamp}</findbugsXmlOutputDirectory>
         </configuration>
       </plugin>
     </plugins>
