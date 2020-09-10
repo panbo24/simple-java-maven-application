@@ -6,7 +6,13 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>my-app</name>
+
   <url>http://maven.apache.org</url>
+  <properties>
+    <maven.build.timestamp.format>yyyy-MM-dd'T'HH:mm:ss'Z'</maven.build.timestamp.format>
+  </properties>
+
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -15,7 +21,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+
   <build>
+
     <plugins>
       <plugin>
         <!-- Build an executable JAR -->
@@ -34,6 +43,7 @@
       </plugin>
       <!--集成maven findbugs-->
       <plugin>
+
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>findbugs-maven-plugin</artifactId>
         <version>3.0.1</version>
@@ -44,7 +54,7 @@
           <findbugsXmlWithMessages>true</findbugsXmlWithMessages>
           <xmlOutput>true</xmlOutput>
           <formats><format>html</format></formats>
-          <findbugsXmlOutputDirectory>target/site</findbugsXmlOutputDirectory>
+          <findbugsXmlOutputDirectory>target/findbugs-${maven.build.timestamp}</findbugsXmlOutputDirectory>
         </configuration>
       </plugin>
     </plugins>
