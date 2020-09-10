@@ -32,6 +32,21 @@
           </archive>
         </configuration>
       </plugin>
+      <!--集成maven findbugs-->
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>findbugs-maven-plugin</artifactId>
+        <version>3.0.1</version>
+        <configuration>
+          <threshold>High</threshold>
+          <effort>Default</effort>
+          <findbugsXmlOutput>true</findbugsXmlOutput>
+          <findbugsXmlWithMessages>true</findbugsXmlWithMessages>
+          <xmlOutput>true</xmlOutput>
+          <formats><format>html</format></formats>
+          <findbugsXmlOutputDirectory>target/site</findbugsXmlOutputDirectory>
+        </configuration>
+      </plugin>
     </plugins>
   </build>
 </project>
