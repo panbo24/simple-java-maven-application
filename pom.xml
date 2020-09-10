@@ -51,10 +51,9 @@
           <threshold>High</threshold>
           <effort>Default</effort>
           <findbugsXmlOutput>true</findbugsXmlOutput>
-          <findbugsXmlWithMessages>true</findbugsXmlWithMessages>
           <xmlOutput>true</xmlOutput>
-          <formats><format>html</format></formats>
-          <findbugsXmlOutputDirectory>target/findbugs-${maven.build.timestamp}</findbugsXmlOutputDirectory>
+
+          <findbugsXmlOutputDirectory>analysis/findbugs-${maven.build.timestamp}</findbugsXmlOutputDirectory>
         </configuration>
       </plugin>
     </plugins>
