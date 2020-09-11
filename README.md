@@ -19,7 +19,10 @@ the "Deliver" stage of your Pipeline.
 testCommit
 1111
 2222
+<<<<<<< HEAD
 3333
 4444
 55555
 >>>>>>> parent of dd21fb3... Update README.md
+=======
+>>>>>>> parent of 75a9210... Update README.md
