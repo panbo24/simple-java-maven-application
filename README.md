@@ -24,8 +24,11 @@ testCommit
 3333
 4444
 55555
+<<<<<<< HEAD
 >>>>>>> parent of dd21fb3... Update README.md
 =======
 >>>>>>> parent of 75a9210... Update README.md
 =======
 >>>>>>> parent of 75a9210... Update README.md
+=======
+>>>>>>> parent of dd21fb3... Update README.md
