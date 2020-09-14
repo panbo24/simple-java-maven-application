@@ -20,6 +20,9 @@ testCommit
 1111
 2222
 3333
+<<<<<<< HEAD
 4444
 55555
 >>>>>>> parent of dd21fb3... Update README.md
+=======
+>>>>>>> parent of b0727dc... Update README.md
