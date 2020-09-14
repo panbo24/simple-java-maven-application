@@ -21,7 +21,10 @@ testCommit
 3333
 4444
 <<<<<<< HEAD
+<<<<<<< HEAD
 55555
 
+=======
+>>>>>>> parent of dab8e86... Update README.md
 =======
 >>>>>>> parent of dab8e86... Update README.md
