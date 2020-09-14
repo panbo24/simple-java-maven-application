@@ -13,16 +13,16 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
-<<<<<<< HEAD
-=======
+
 
 testCommit
 1111
 2222
+
+
 3333
-<<<<<<< HEAD
+
 4444
+
 55555
->>>>>>> parent of dd21fb3... Update README.md
-=======
->>>>>>> parent of b0727dc... Update README.md
+
