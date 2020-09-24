@@ -22,6 +22,7 @@ testCommit
 4444
 
 1111
+<<<<<<< HEAD
 2222
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33,3 +34,5 @@ test3
 >>>>>>> parent of 1325bf5... Update README.md
 =======
 >>>>>>> parent of ada5d2e... Update README.md
+=======
+>>>>>>> parent of 7b1efe2... Update README.md
