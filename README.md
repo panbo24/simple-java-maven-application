@@ -26,6 +26,7 @@ testCommit
 2222
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 test1
 test2
 test3
@@ -39,3 +40,5 @@ test3
 >>>>>>> parent of 7b1efe2... Update README.md
 =======
 >>>>>>> parent of 1325bf5... Update README.md
+=======
+>>>>>>> parent of ada5d2e... Update README.md
