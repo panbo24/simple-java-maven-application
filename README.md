@@ -23,6 +23,10 @@ testCommit
 
 1111
 2222
+<<<<<<< HEAD
 test1
 test2
 test3
+=======
+3333
+>>>>>>> parent of 1325bf5... Update README.md
