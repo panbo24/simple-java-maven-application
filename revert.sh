@@ -8,7 +8,7 @@ do
  git revert $commitNo
 # 撤销后提交到本地仓库
  git add .
- git commit -m"revertcommitNo"
+ git commit -m "revertcommitNo"
 # 推到远程github主分支上
  git push origin master
 done
