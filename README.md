@@ -22,4 +22,7 @@ testCommit
 4444
 
 1111
+<<<<<<< HEAD
 2222
+=======
+>>>>>>> parent of 7b1efe2... Update README.md
