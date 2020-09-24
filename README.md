@@ -37,6 +37,7 @@ test3
 3333
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 1325bf5... Update README.md
 =======
 >>>>>>> parent of ada5d2e... Update README.md
@@ -54,3 +55,5 @@ test3
 >>>>>>> parent of ada5d2e... Update README.md
 =======
 >>>>>>> parent of 7b1efe2... Update README.md
+=======
+>>>>>>> parent of 1325bf5... Update README.md
