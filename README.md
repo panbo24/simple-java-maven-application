@@ -28,6 +28,7 @@ testCommit
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2222
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -89,3 +90,6 @@ test5
 >>>>>>> parent of 3580b92... Update README.md
 =======
 >>>>>>> parent of 1ffaf15... Update README.md
+=======
+
+>>>>>>> parent of a26287d... Update README.md
