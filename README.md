@@ -75,6 +75,7 @@ test3
 >>>>>>> parent of 7b1efe2... Update README.md
 =======
 test1
+<<<<<<< HEAD
 test2
 <<<<<<< HEAD
 test3
@@ -86,3 +87,5 @@ test5
 >>>>>>> parent of c12d963... Update README.md
 =======
 >>>>>>> parent of 3580b92... Update README.md
+=======
+>>>>>>> parent of 1ffaf15... Update README.md
