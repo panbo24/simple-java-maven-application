@@ -21,5 +21,8 @@ the "Deliver" stage of your Pipeline.
 
 =======
 test1
+<<<<<<< HEAD
 test2
 >>>>>>> parent of 8384336... Update README.md
+=======
+>>>>>>> parent of 9dd3e96... Update README.md
