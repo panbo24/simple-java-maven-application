@@ -4,7 +4,7 @@ do
  echo $line
 # 把版本号赋值给变量
  commitNo=$line
-# 撤销当前版本号的commit操作
+# 撤销当前版本号的commit操作,并且“-n”不提交commit信息
  git revert $commitNo -n
 # 撤销后提交到本地仓库
  git add .
