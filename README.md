@@ -14,7 +14,12 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
+<<<<<<< HEAD
 
 
 
 
+=======
+test1
+test2
+>>>>>>> parent of 8384336... Update README.md
