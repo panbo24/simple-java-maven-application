@@ -77,6 +77,9 @@ test3
 test1
 test2
 test3
+<<<<<<< HEAD
 test4
 test5
 >>>>>>> 1a32d32d1ca236f113a7ac7efba63dd7fae6a15e
+=======
+>>>>>>> parent of c12d963... Update README.md
