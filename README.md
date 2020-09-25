@@ -15,10 +15,14 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3b0d16e... Update README.md
 
 
 
 
+<<<<<<< HEAD
 =======
 test1
 <<<<<<< HEAD
@@ -26,3 +30,5 @@ test2
 >>>>>>> parent of 8384336... Update README.md
 =======
 >>>>>>> parent of 9dd3e96... Update README.md
+=======
+>>>>>>> parent of 3b0d16e... Update README.md
